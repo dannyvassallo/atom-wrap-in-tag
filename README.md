@@ -2,7 +2,7 @@
 
 Simplest package for [Atom](https://atom.io/) that wraps tag around selection - similar functionality found on other editors like PhpStorm, SublimeText, TextMate etc.
 
-Just select a word or phrase and hit <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>
+Just select a word or phrase and hit <kbd>ctrl</kbd> + <kbd>Shift</kbd> + <kbd>w</kbd>
 
 Hit spacebar key to continue typing attribute after the opening tag.
 
